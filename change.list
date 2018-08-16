@@ -1,0 +1,6 @@
+1. 2018-08-15: using mysql user to login, extend IdentityInterface to hold username and make IdentityInterface by session info.
+2. 2018-08-15: change title and company name.
+3. 2018-08-15: make login default showing.
+4. 2018-08-15: make title, about page look kindly.
+5. 2018-08-15: move connect to session.
+6. 2018-05-16: fixed logout bug.
